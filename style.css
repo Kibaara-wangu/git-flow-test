@@ -1,0 +1,48 @@
+
+#first{
+    color: orangered;
+}
+body{
+    background-color: aqua;
+    border: 1px solid;
+    padding: 20px;
+    background: linear-gradient(110deg,pink 45%, purple 40%);
+    border: none;
+}
+.image{
+    height: 30px;
+    width: 30px;
+    display: flex;
+   
+}
+button{
+    color: orangered;
+    border: none;
+}
+
+.container{
+    display: flex;
+    
+    }
+    .image1{
+        
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+         width: 40%; 
+        border-radius: 30px solid;
+   }
+   h1{
+    font-size: 600%;
+    color: white;
+   }
+    h4{
+        font-size: 200%;
+    }
+    .paragraph{
+        display: flex;
+    }
+    button{
+        background-color: orangered;
+        color: antiquewhite;
+    }
